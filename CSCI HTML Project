@@ -2,4 +2,33 @@
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Myles Taylor</title>
+    <title>My Favorite Videogame</title>
+	
+	<style>
+		body {background-color:#97F4DF}
+		div {font-size:16pt; font-family:Arial}
+		img {float:right}
+		div {width:auto}
+	</style> 
+	
+  </head>
+  
+  <body> 
+   
+		<div>
+		    <img src="MW2.jfif" alt="" height=300 width=200>
+			<h1>My Favorite Videogame</h1>
+			<p>One of my favorite videogames that I used to play back in high school was a game called Call of Duty: Modern Warfare 2. 
+			The game came out in 2009, but I did not end up acquiring it until 2010 for the Xbox 360. The videogame featured many different game modes,
+			including Special Ops, Multiplayer mode, and Campaign mode.
+			</p>
+			<p>Special Ops mode had different missions you had to complete with another player, and each mission had a specific task that you had to complete
+			as you moved throughout whatever level you were playing. This game mode was very similar to Campaign mode; however, campaign mode had key differences.
+			In campaign mode, each mission connected to the last, and all of the missions formed a storyline as a whole. Also, you were only allowed to play in single 
+			player mode in campaign mode. In Special Ops, you could play with two people using two different controllers.
+			</p>
+			<p>Multiplayer mode allowed you to play with people globally using a broadband internet connection. My friends and I would play Multiplayer mode the most,
+			forming our own teams and facing off against other people around the world. Great memories were formed. 
+			</p>
+			</html>
+			
